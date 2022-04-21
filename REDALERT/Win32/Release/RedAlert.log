@@ -289,11 +289,11 @@ KEYFBUFF.ASM(1138): warning A6004: procedure argument or local not referenced : 
   WOL_CHAT.CPP
   WOL_DNLD.CPP
   WOL_GSUP.CPP
+  ...Building English version...
   WOL_LOGN.CPP
   WOL_MAIN.CPP
   WOL_OPT.CPP
   WSPIPX.CPP
-  ...Building English version...
   WSPROTO.CPP
   WSPUDP.CPP
   XPIPE.CPP
