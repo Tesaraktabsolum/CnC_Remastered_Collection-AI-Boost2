@@ -1,1 +1,4 @@
-﻿  RedAlert.vcxproj -> C:\z-Git\CnC_Remastered_Collection-AI-Boost2\RedAlert\..\WorkshopContent\AIBoost\Data\RedAlert.dll
+﻿  HOUSE.CPP
+     Création de la bibliothèque ..\WorkshopContent\AIBoost\Data\RedAlert.lib et de l'objet ..\WorkshopContent\AIBoost\Data\RedAlert.exp
+  LINK : /LTCG spécifié mais aucune génération de code requise ; supprimez /LTCG de la ligne de commande de l'édition de liens pour améliorer les performances de l'éditeur de liens
+  RedAlert.vcxproj -> C:\Users\Mini Franki\Desktop\CnC_Remastered_Collection-AI-Boost2\RedAlert\..\WorkshopContent\AIBoost\Data\RedAlert.dll
