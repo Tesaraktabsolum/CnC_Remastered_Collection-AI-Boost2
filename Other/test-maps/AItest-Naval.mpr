@@ -5,10 +5,8 @@ AIAllowMoreMCVsToExtraBase=true
 AIMaxMCVOrConYardsInMainBase=1
 
 [Recharge]
-Chrono=1
+Chrono=2
 GPS=1
-IronCurtain=1
-
 
 [Basic]
 Win2=x
@@ -25,7 +23,7 @@ OneTimeOnly=0
 SkipMapSelect=0
 TruckCrate=0
 FillSilos=0
-Name=AIBoost-IronCurtainChronoTest-2AI
+Name=AItest-Naval
 CarryOverCap=-1
 CarryOverMoney=100
 Theme=No Theme
@@ -47,7 +45,7 @@ Height=126
 Theater=snow
 
 [Steam]
-Title=AIBoost-IronCurtainChronoTest-2AI
+Title=AItest-Naval
 Visibility=k_ERemoteStoragePublishedFileVisibilityPublic
 PublishedFileId=0
 
@@ -102,27 +100,6 @@ PublishedFileId=0
 [INFANTRY]
 
 [STRUCTURES]
-000=Multi1,dome,256,13333,0,None,0,0
-001=Multi1,apwr,256,13973,0,None,0,0
-002=Multi1,apwr,256,13969,0,None,0,0
-003=Multi1,apwr,256,13329,0,None,0,0
-004=Multi2,weap,256,1939,0,None,0,0
-005=Multi2,apwr,256,1427,0,None,0,0
-006=Multi2,apwr,256,1432,0,None,0,0
-007=Multi2,apwr,256,1944,0,None,0,0
-008=Multi3,weap,256,1764,0,None,0,0
-009=Multi3,apwr,256,1767,0,None,0,0
-010=Multi3,apwr,256,2280,0,None,0,0
-011=Multi3,apwr,256,2276,0,None,0,0
-012=Multi1,fix,256,14482,0,None,0,0
-013=Multi2,fix,256,1411,0,None,0,0
-014=Multi3,fix,256,1655,0,None,0,0
-015=Multi1,iron,256,14615,0,None,0,0
-016=Multi2,iron,256,1924,0,None,0,0
-017=Multi3,iron,256,2296,0,None,0,0
-018=Multi1,pdox,256,14606,0,None,0,0
-019=Multi2,pdox,256,1921,0,None,0,0
-020=Multi3,pdox,256,2165,0,None,0,0
 
 [Base]
 Player=Spain
