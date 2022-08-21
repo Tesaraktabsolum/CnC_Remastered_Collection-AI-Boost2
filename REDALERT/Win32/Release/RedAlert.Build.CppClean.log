@@ -1,319 +1,323 @@
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\adata.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\ccptr.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\connect.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\dial8.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\face.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\gamedlg.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\inibin.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\ipxaddr.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\lzostraw.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\mapeddlg.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\monoc.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\overlay.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\rect.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\rgb.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\rndstraw.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\scenario.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\stats.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\terrain.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\utracker.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\ddraw.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\irandom.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\windows.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\base.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\blowpipe.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\ccini.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\colrlist.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\crc.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\credits.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\dtable.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\dynavec.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\edit.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\foot.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\iconlist.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\infantry.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\ipxmgr.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\mapedtm.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\mplayer.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\pk.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\pkstraw.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\queue.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\sendfile.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\session.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\straw.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\super.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\tevent.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\vector.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\dipthong.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\timerdwn.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\xstraw.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\aadata.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\bench.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\bigcheck.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\blwstraw.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\carry.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\cfeutil.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\debug.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\egos.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\event.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\getcpu.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\gscreen.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\init.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\ipxgconn.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\map.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\mpgset.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\pipe.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\pkpipe.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\profile.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\scroll.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\sounddlg.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\teamtype.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\txtlabel.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\weapon.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\timerini.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\bar.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\buff.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\ccfile.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\class.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\combat.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\crcstraw.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\cstraw.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\descdlg.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\expand.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\gadget.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\hsv.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\idata.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\ipx95.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\lzopipe.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\lzwstraw.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\mapedplc.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\mouse.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\packet.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\palettec.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\rotbmp.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\rules.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\startup.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\template.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\udata.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\alloc.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\gbuffer.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\set_font.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\wol_main.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\wsproto.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\b64pipe.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\base64.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\bdata.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\cdata.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\coord.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\dpmi.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\drive.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\fixed.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\fly.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\house.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\lcw.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\lcwpipe.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\lcwuncmp.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\list.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\menus.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\nullmgr.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\object.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\random.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\rawolapi.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\readline.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\slider.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\tab.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\textbtn.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\vdata.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\delay.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\palette.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\wol_dnld.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\wol_opt.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\wspudp.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\aircraft.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\ccmpath.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\combuf.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\crew.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\ending.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\fuse.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\help.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\ioobj.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\loaddlg.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\miscasm.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\nulldlg.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\rand.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\shastraw.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\sidebarglyphx.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\tcpip.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\tracker.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\vortex.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\iff.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\winhide.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\audio.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\cargo.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\checkbox.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\crate.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\drop.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\flasher.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\heap.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\ipx.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\lzo1x_c.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\lzo1x_d.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\lzw.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\mapedsel.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\mp.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\msglist.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\radar.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\seditdlg.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\seqconn.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\sha.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\shapipe.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\sidebar.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\tdata.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\toggle.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\visudlg.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\iconset.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\_diptabl.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\winstub.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\anim.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\building.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\cominit.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\conquer.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\dllinterfaceeditor.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\findpath.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\ini.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\intro.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\layer.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\mci.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\netdlg.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\radio.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\sdata.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\statbtn.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\tenmgr.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\udpaddr.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\buffglbl.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\drawrect.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\mouseww.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\wol_cgam.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\wol_gsup.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\xpipe.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\abstract.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\bullet.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\cheklist.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\crcpipe.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\dde.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\dibfile.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\dibutil.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\display.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\factory.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\hdata.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\iomap.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\lcwstraw.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\link.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\mcimovie.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\nullconn.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\ramfile.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\shape.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\shapebtn.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\stub.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\surface.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\taction.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\theme.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\version.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\vessel.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\getshape.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\writepcx.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\2keyfram.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\bfiofile.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\cdfile.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\cfepatchquery.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\control.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\door.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\field.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\globals.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\interpal.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\key.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\logic.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\mission.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\odata.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\rawfile.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\saveload.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\special.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\techno.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\unit.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\drawmisc.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\loadfont.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\wol_chat.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\wol_logn.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\wspipx.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\b64straw.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\bbdata.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\ccten.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\comqueue.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\confdlg.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\dialog.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\facing.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\gauge.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\inicode.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\ipxconn.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\lzwpipe.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\mapedit.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\mixfile.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\options.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\reinf.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\smudge.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\team.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\trigtype.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\warhead.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\load.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\wolapiob.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\woledit.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\wolstrng.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\adpcm.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\blowfish.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\ccdde.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\cell.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\const.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\dllinterface.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\goptions.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\int.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\internet.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\itable.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\jshell.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\mapsel.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\mpmgrw.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\mpu.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\msgbox.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\power.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\score.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\sprite.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\target.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\tooltip.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\trigger.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\w95trace.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\buffer.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\font.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\timer.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\vc141.pdb
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\adpcm.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\b64pipe.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\base64.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\bench.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\blowfish.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\buff.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\building.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\cdfile.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\cfeutil.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\const.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\descdlg.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\drop.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\factory.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\gauge.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\hsv.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\iconlist.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\idata.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\intro.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\ipxmgr.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\lzopipe.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\lzw.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\lzwstraw.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\mapeddlg.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\mcimovie.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\mplayer.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\options.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\ramfile.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\scroll.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\sidebar.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\super.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\techno.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\udata.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\vortex.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\dipthong.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\iconset.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\timerini.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\wol_chat.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\wol_logn.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\wsproto.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\adata.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\cargo.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\ccmpath.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\cheklist.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\conquer.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\dial8.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\dtable.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\dynavec.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\edit.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\field.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\foot.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\hdata.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\inicode.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\ipx95.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\lcw.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\lcwpipe.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\lcwstraw.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\lcwuncmp.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\link.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\mapedsel.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\mixfile.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\nullconn.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\pkstraw.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\profile.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\rect.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\reinf.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\sha.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\shape.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\shapebtn.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\startup.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\tdata.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\textbtn.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\udpaddr.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\w95trace.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\buffer.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\gbuffer.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\loadfont.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\winhide.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\wspipx.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\abstract.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\bbdata.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\ccini.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\checkbox.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\comqueue.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\connect.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\cstraw.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\dde.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\dllinterface.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\facing.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\gamedlg.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\house.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\ioobj.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\layer.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\mapedplc.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\mission.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\netdlg.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\pipe.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\pk.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\pkpipe.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\power.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\rawolapi.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\readline.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\seditdlg.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\sendfile.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\seqconn.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\session.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\sprite.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\taction.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\terrain.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\txtlabel.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\version.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\vessel.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\delay.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\getshape.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\set_font.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\wolapiob.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\woledit.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\wolstrng.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\aadata.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\bar.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\ccdde.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\cell.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\combuf.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\crc.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\crcpipe.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\crcstraw.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\credits.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\dllinterfaceeditor.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\face.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\gadget.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\help.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\init.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\ipxaddr.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\list.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\mapedtm.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\monoc.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\nulldlg.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\queue.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\rgb.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\rndstraw.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\scenario.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\smudge.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\straw.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\surface.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\tab.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\template.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\toggle.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\utracker.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\warhead.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\mouseww.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\writepcx.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\wol_opt.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\xstraw.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\anim.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\bfiofile.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\carry.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\cdata.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\confdlg.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\crew.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\door.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\expand.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\fuse.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\heap.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\interpal.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\ipxgconn.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\logic.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\mci.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\mp.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\mpgset.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\odata.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\radio.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\score.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\shastraw.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\slider.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\stats.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\teamtype.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\theme.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\unit.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\buffglbl.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\drawmisc.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\iff.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\timerdwn.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\wol_cgam.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\wol_dnld.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\wol_main.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\xpipe.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\aircraft.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\bigcheck.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\blowpipe.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\blwstraw.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\bullet.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\ccten.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\class.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\combat.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\coord.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\dialog.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\egos.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\ending.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\findpath.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\goptions.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\infantry.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\ipx.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\key.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\lzo1x_c.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\lzo1x_d.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\lzostraw.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\lzwpipe.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\map.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\menus.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\mpmgrw.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\mpu.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\msgbox.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\overlay.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\rand.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\sdata.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\special.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\tcpip.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\tevent.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\trigtype.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\visudlg.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\ddraw.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\font.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\load.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\windows.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\2keyfram.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\base.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\ccfile.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\cfepatchquery.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\cominit.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\crate.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\dibfile.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\dibutil.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\display.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\event.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\fly.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\gscreen.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\inibin.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\iomap.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\itable.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\jshell.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\mapedit.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\miscasm.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\msglist.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\packet.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\palettec.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\random.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\rawfile.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\rotbmp.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\rules.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\sounddlg.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\stub.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\target.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\tenmgr.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\tracker.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\vdata.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\alloc.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\drawrect.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\irandom.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\timer.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\wol_gsup.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\wspudp.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\audio.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\b64straw.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\bdata.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\ccptr.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\colrlist.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\control.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\debug.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\dpmi.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\drive.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\fixed.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\flasher.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\getcpu.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\globals.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\ini.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\int.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\internet.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\ipxconn.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\loaddlg.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\mapsel.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\mouse.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\nullmgr.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\object.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\radar.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\saveload.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\shapipe.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\sidebarglyphx.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\statbtn.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\team.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\tooltip.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\trigger.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\vector.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\weapon.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\palette.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\_diptabl.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\winstub.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\vc141.pdb
 c:\z-git\cnc_remastered_collection-ai-boost2\workshopcontent\aiboost\data\redalert.dll
 c:\z-git\cnc_remastered_collection-ai-boost2\workshopcontent\aiboost\data\redalert.pdb
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\lcwcomp.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\mmx.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\txtprnt.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\tobuff.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\keyfbuff.obj
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.res
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\workshopcontent\aiboost\data\redalert.dll
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\workshopcontent\aiboost\data\redalert.pdb
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\lcwcomp.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\mmx.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\txtprnt.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\tobuff.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\keyfbuff.obj
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.res
 c:\z-git\cnc_remastered_collection-ai-boost2\workshopcontent\aiboost\data\redalert.lib
 c:\z-git\cnc_remastered_collection-ai-boost2\workshopcontent\aiboost\data\redalert.exp
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\..\workshopcontent\aiboost\data\redalert.dll
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\cl.command.1.tlog
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\cl.read.1.tlog
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\cl.write.1.tlog
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\link.command.1.tlog
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\link.read.1.tlog
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\link.write.1.tlog
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\masm.read.1u.tlog
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\masm.write.1u.tlog
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\rc.command.1.tlog
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\rc.read.1.tlog
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\rc.write.1.tlog
-c:\z-git\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\redalert.write.1u.tlog
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\workshopcontent\aiboost\data\redalert.lib
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\workshopcontent\aiboost\data\redalert.exp
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\..\workshopcontent\aiboost\data\redalert.dll
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\cl.command.1.tlog
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\cl.read.1.tlog
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\cl.write.1.tlog
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\link.command.1.tlog
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\link.read.1.tlog
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\link.write.1.tlog
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\masm.read.1u.tlog
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\masm.write.1u.tlog
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\rc.command.1.tlog
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\rc.read.1.tlog
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\rc.write.1.tlog
+c:\users\mini franki\desktop\cnc_remastered_collection-ai-boost2\redalert\win32\release\redalert.tlog\redalert.write.1u.tlog
