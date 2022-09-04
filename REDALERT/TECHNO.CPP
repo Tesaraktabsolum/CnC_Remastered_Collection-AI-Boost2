@@ -8334,3 +8334,31 @@ bool TechnoClass::Is_Known_To_Exist_By_Player(HouseClass *player) const
 	}	
 	return false;
 }
+
+void TechnoClass::SendVesselTransportToBeach(void)
+{
+	//Scan own buildings to be sure we send it at a beach cell close the base
+	int DistanceFromBeachToBuilding = -1;
+	for (int BuildingIndex = 0; BuildingIndex < Buildings.Count(); BuildingIndex++) {
+		BuildingClass * building = Buildings.Ptr(BuildingIndex);
+		if (building != NULL && building->House->Is_Ally(this) && !building->IsInLimbo) {
+			//Scan map to find beach cells
+			for (CELL cell = 0; cell < MAP_CELL_TOTAL; cell++) {
+				if (Map[cell].Land_Type() == LAND_BEACH) {
+					int centdist = ::Distance(building->Center_Coord(), Cell_Coord(Map[cell].Land_Type() == LAND_BEACH));
+					if (DistanceFromBeachToBuilding == -1 || centdist < DistanceFromBeachToBuilding) {
+						DistanceFromBeachToBuilding = centdist;
+					}
+				}
+				DistanceFromBeachToBuilding = (int)(DistanceFromBeachToBuilding / 265);
+				if (DistanceFromBeachToBuilding < 10) {
+					//We found beach that is close enough to our building, send to it
+					CELL BeachCell = Cell_Coord(Map[cell].Land_Type() == LAND_BEACH);
+					Assign_Destination(::As_Target(BeachCell));
+					break;
+				}
+			}
+			break;
+		}
+	}
+}

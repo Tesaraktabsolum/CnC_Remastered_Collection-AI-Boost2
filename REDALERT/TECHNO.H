@@ -399,6 +399,9 @@ class TechnoClass :	public RadioClass,
 		virtual void Code_Pointers(void);
 		virtual void Decode_Pointers(void);
 
+		// By Mini Franki
+		void SendVesselTransportToBeach(void);
+
 		/*
 		**	Display and rendering support functionality. Supports imagery and how
 		**	object interacts with the map and thus indirectly controls rendering.

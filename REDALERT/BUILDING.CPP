@@ -2527,6 +2527,10 @@ int BuildingClass::Exit_Object(TechnoClass * base)
 						if (!Rally_Unit(static_cast<FootClass&>(*base))) {
 							base->Assign_Mission(MISSION_GUARD);
 						}
+						//Send all vessel transports to the closest beach cell
+						if (*this == VESSEL_TRANSPORT && !House->IsHuman) {
+							base->SendVesselTransportToBeach();
+						}
 						ScenarioInit--;
 						return(2);
 					}
