@@ -501,6 +501,7 @@ void Wide_Area_Damage(COORDINATE coord, LEPTON radius, int damage, TechnoClass *
 /*
 **	CONQUER.CPP
 */
+void Logger(std::string logMsg);
 void List_Copy(short const * source, int len, short * dest);
 int Get_CD_Index (int cd_drive, int timeout);
 int Owner_From_Name(char const * text);

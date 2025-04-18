@@ -7259,12 +7259,10 @@ extern int UnitBuildPenalty;
 int TechnoTypeClass::Time_To_Build(HousesType house) const
 {
 	int time = Cost * Rule.BuildSpeedBias * fixed(TICKS_PER_MINUTE, 1000);
-
 	HouseClass* hptr = HouseClass::As_Pointer(house);
 	if (!hptr || !hptr->IsActive) {
 		return time;
 	}
-
 #ifdef FIXIT_VERSION_3
 	if (Session.Type == GAME_NORMAL) {
 #else
@@ -7343,12 +7341,12 @@ int TechnoTypeClass::Time_To_Build(HousesType house) const
 		if (Rule.AIProductionAggressiveness == 2) { hackpercent = (float)0.75; } // 25% of the hack, a bit agressive
 		if (Rule.AIProductionAggressiveness == 3) { hackpercent = (float)0.50; } // 50% of the hack, super aggressive
 		if (Rule.AIProductionAggressiveness == 4) { hackpercent = (float)0.30; } // 70% of the hack, Madness
-		if (Rule.AIProductionAggressiveness >= 5) { hackpercent = (float)0.20; } // 80% of the hack, Hell
+		if (Rule.AIProductionAggressiveness == 5) { hackpercent = (float)0.20; } // 80% of the hack, Hell
+		if (Rule.AIProductionAggressiveness >= 6) { hackpercent = (float)0.10; } // 80% of the hack, Hell
 		time *= hackpercent;
 	}
 	return(time);
 }
-
 
 /***********************************************************************************************
  * TechnoTypeClass::Cost_Of -- Fetches the cost of this object type.                           *

@@ -821,6 +821,7 @@ bool HouseClass::Can_Build(ObjectTypeClass const * type, HousesType house) const
 			default:
 				break;
 		}
+
 	}
 #endif
 
@@ -2583,6 +2584,7 @@ void HouseClass::Adjust_Threat(int region, int threat)
  *=============================================================================================*/
 ProdFailType HouseClass::Begin_Production(RTTIType type, int id)
 {
+	Logger(__func__);
 	assert(Houses.ID(this) == ID);
 	int result = true;
 	bool initial_start = false;
@@ -4451,6 +4453,7 @@ extern void On_Defeated_Message(const char* message, float timeout_seconds);
  *=========================================================================*/
 void HouseClass::MPlayer_Defeated(void)
 {
+	Logger(__func__);
 	assert(Houses.ID(this) == ID);
 
 	char txt[80];
@@ -5131,6 +5134,7 @@ fixed HouseClass::Power_Fraction(void) const
  *=============================================================================================*/
 void HouseClass::Sell_Wall(CELL cell)
 {
+	Logger(__func__);
 	assert(Houses.ID(this) == ID);
 
 	if ((unsigned)cell > 0) {
@@ -5236,6 +5240,7 @@ void HouseClass::Sell_Wall(CELL cell)
  *=============================================================================================*/
 BuildingTypeClass const * HouseClass::Suggest_New_Building(void) const
 {
+	Logger(__func__);
 	assert(Houses.ID(this) == ID);
 
 	if (BuildStructure != STRUCT_NONE) {
@@ -5268,6 +5273,7 @@ BuildingTypeClass const * HouseClass::Suggest_New_Building(void) const
  *=============================================================================================*/
 BuildingClass * HouseClass::Find_Building(StructType type, ZoneType zone) const
 {
+	Logger(__func__);
 	assert(Houses.ID(this) == ID);
 
 	/*
